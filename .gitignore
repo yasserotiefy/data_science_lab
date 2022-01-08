@@ -104,6 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+timegan/
 env/
 venv/
 ENV/
@@ -134,3 +135,4 @@ dmypy.json
 
 # Data
 ashrae_data/
+*.pkl
